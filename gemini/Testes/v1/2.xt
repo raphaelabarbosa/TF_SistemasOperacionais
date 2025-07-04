@@ -1,0 +1,475 @@
+/Users/renatog.barbosa/.zprofile:1: no such file or directory: /opt/homebrew/bin/brew
+/Users/renatog.barbosa/.zprofile:2: no such file or directory: /opt/homebrew/bin/brew
+renatog.barbosa@iMac-de-Renato gemini % make
+gcc -Wall -Wextra -g -pthread -o barbearia barbearia.c
+./Compilação concluída! Execute com ./barbearia
+renatog.barbosa@iMac-de-Renato gemini % ./barbearia
+Digite o número total de clientes que a barbearia atenderá hoje: 20
+
+=== A Barbearia Abriu! ===
+
+[Barbeiro  0] chegou para trabalhar.
+[Barbeiro  0] está dormindo...
+[Barbeiro  1] chegou para trabalhar.
+[Barbeiro  1] está dormindo...
+[Barbeiro  2] chegou para trabalhar.
+[Barbeiro  2] está dormindo...
+[Cliente   0] chegou na barbearia.
+[Cliente   0] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 0 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   0] está tendo o cabelo cortado.
+[Cliente   3] chegou na barbearia.
+[Cliente   3] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 3 do sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente   3] está tendo o cabelo cortado.
+[Cliente   2] chegou na barbearia.
+[Cliente   2] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 2 do sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   2] está tendo o cabelo cortado.
+[Cliente   1] chegou na barbearia.
+[Cliente   1] sentou no sofá.
+[Cliente   5] chegou na barbearia.
+[Cliente   5] sentou no sofá.
+[Cliente   4] chegou na barbearia.
+[Cliente   4] sentou no sofá.
+[Cliente   6] chegou na barbearia.
+[Cliente   6] sentou no sofá.
+[Cliente   7] chegou na barbearia.
+[Cliente   7] está esperando em pé.
+[Cliente  11] chegou na barbearia.
+[Cliente  11] está esperando em pé.
+[Cliente   9] chegou na barbearia.
+[Cliente   9] está esperando em pé.
+[Cliente   8] chegou na barbearia.
+[Cliente   8] está esperando em pé.
+[Cliente  10] chegou na barbearia.
+[Cliente  10] está esperando em pé.
+[Cliente  12] chegou na barbearia.
+[Cliente  12] está esperando em pé.
+[Cliente  13] chegou na barbearia.
+[Cliente  13] está esperando em pé.
+[Cliente  15] chegou na barbearia.
+[Cliente  15] está esperando em pé.
+[Cliente  14] chegou na barbearia.
+[Cliente  14] está esperando em pé.
+[Cliente  18] chegou na barbearia.
+[Cliente  18] está esperando em pé.
+[Cliente  16] chegou na barbearia.
+[Cliente  16] está esperando em pé.
+[Cliente  19] chegou na barbearia.
+[Cliente  19] está esperando em pé.
+[Cliente  17] chegou na barbearia.
+[Cliente  17] está esperando em pé.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 1 do sofá.
+[Sistema     ] Cliente 7 moveu-se da área em pé para o sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   2] pagou e foi embora satisfeito.
+[Cliente   1] está tendo o cabelo cortado.
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 5 do sofá.
+[Sistema     ] Cliente 11 moveu-se da área em pé para o sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   0] pagou e foi embora satisfeito.
+[Cliente   5] está tendo o cabelo cortado.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 4 do sofá.
+[Sistema     ] Cliente 9 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Cliente   3] pagou e foi embora satisfeito.
+[Cliente   4] está tendo o cabelo cortado.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 6 do sofá.
+[Sistema     ] Cliente 8 moveu-se da área em pé para o sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   1] pagou e foi embora satisfeito.
+[Cliente   6] está tendo o cabelo cortado.
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 7 do sofá.
+[Sistema     ] Cliente 10 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   7] está tendo o cabelo cortado.
+[Cliente   5] pagou e foi embora satisfeito.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 11 do sofá.
+[Sistema     ] Cliente 12 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente   4] pagou e foi embora satisfeito.
+[Cliente  11] está tendo o cabelo cortado.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 9 do sofá.
+[Sistema     ] Cliente 13 moveu-se da área em pé para o sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   6] pagou e foi embora satisfeito.
+[Cliente   9] está tendo o cabelo cortado.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 8 do sofá.
+[Sistema     ] Cliente 15 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Cliente   7] pagou e foi embora satisfeito.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   8] está tendo o cabelo cortado.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 10 do sofá.
+[Sistema     ] Cliente 14 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente  10] está tendo o cabelo cortado.
+[Cliente  11] pagou e foi embora satisfeito.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 12 do sofá.
+[Sistema     ] Cliente 18 moveu-se da área em pé para o sofá.
+[Cliente  12] está tendo o cabelo cortado.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   9] pagou e foi embora satisfeito.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 13 do sofá.
+[Sistema     ] Cliente 16 moveu-se da área em pé para o sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   8] pagou e foi embora satisfeito.
+[Cliente  13] está tendo o cabelo cortado.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 15 do sofá.
+[Sistema     ] Cliente 19 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente  10] pagou e foi embora satisfeito.
+[Cliente  15] está tendo o cabelo cortado.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 14 do sofá.
+[Sistema     ] Cliente 17 moveu-se da área em pé para o sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente  13] pagou e foi embora satisfeito.
+[Cliente  14] está tendo o cabelo cortado.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 18 do sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente  15] pagou e foi embora satisfeito.
+[Cliente  18] está tendo o cabelo cortado.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 16 do sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente  12] pagou e foi embora satisfeito.
+[Cliente  16] está tendo o cabelo cortado.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 19 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente  14] pagou e foi embora satisfeito.
+[Cliente  19] está tendo o cabelo cortado.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 17 do sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Cliente  18] pagou e foi embora satisfeito.
+[Cliente  17] está tendo o cabelo cortado.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Barbeiro  2] está dormindo...
+[Cliente  16] pagou e foi embora satisfeito.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] está dormindo...
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Cliente  19] pagou e foi embora satisfeito.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  1] está dormindo...
+[Cliente  17] pagou e foi embora satisfeito.
+
+=== Todos os clientes do dia foram atendidos. Fechando a loja... ===
+
+[Barbeiro  2] foi para casa.
+[Barbeiro  1] foi para casa.
+[Barbeiro  0] foi para casa.
+
+=== A Barbearia Fechou! ===
+renatog.barbosa@iMac-de-Renato gemini % ./barbearia
+Digite o número total de clientes que a barbearia atenderá hoje: 20
+
+=== A Barbearia Abriu! ===
+
+[Barbeiro  0] chegou para trabalhar.
+[Barbeiro  0] está dormindo...
+[Barbeiro  1] chegou para trabalhar.
+[Barbeiro  1] está dormindo...
+[Barbeiro  2] chegou para trabalhar.
+[Barbeiro  2] está dormindo...
+[Cliente   0] chegou na barbearia.
+[Cliente   0] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 0 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   0] está tendo o cabelo cortado.
+[Cliente   5] chegou na barbearia.
+[Cliente   5] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 5 do sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente   5] está tendo o cabelo cortado.
+[Cliente   1] chegou na barbearia.
+[Cliente   1] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 1 do sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   1] está tendo o cabelo cortado.
+[Cliente   2] chegou na barbearia.
+[Cliente   2] sentou no sofá.
+[Cliente   6] chegou na barbearia.
+[Cliente   6] sentou no sofá.
+[Cliente   3] chegou na barbearia.
+[Cliente   3] sentou no sofá.
+[Cliente   4] chegou na barbearia.
+[Cliente   4] sentou no sofá.
+[Cliente   7] chegou na barbearia.
+[Cliente   7] está esperando em pé.
+[Cliente  11] chegou na barbearia.
+[Cliente  11] está esperando em pé.
+[Cliente  10] chegou na barbearia.
+[Cliente  10] está esperando em pé.
+[Cliente   8] chegou na barbearia.
+[Cliente   8] está esperando em pé.
+[Cliente   9] chegou na barbearia.
+[Cliente   9] está esperando em pé.
+[Cliente  14] chegou na barbearia.
+[Cliente  14] está esperando em pé.
+[Cliente  12] chegou na barbearia.
+[Cliente  12] está esperando em pé.
+[Cliente  15] chegou na barbearia.
+[Cliente  15] está esperando em pé.
+[Cliente  13] chegou na barbearia.
+[Cliente  13] está esperando em pé.
+[Cliente  16] chegou na barbearia.
+[Cliente  16] está esperando em pé.
+[Cliente  18] chegou na barbearia.
+[Cliente  18] está esperando em pé.
+[Cliente  17] chegou na barbearia.
+[Cliente  17] está esperando em pé.
+[Cliente  19] chegou na barbearia.
+[Cliente  19] está esperando em pé.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 2 do sofá.
+[Sistema     ] Cliente 7 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente   2] está tendo o cabelo cortado.
+[Cliente   5] pagou e foi embora satisfeito.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 6 do sofá.
+[Sistema     ] Cliente 11 moveu-se da área em pé para o sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   1] pagou e foi embora satisfeito.
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Cliente   6] está tendo o cabelo cortado.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 3 do sofá.
+[Sistema     ] Cliente 10 moveu-se da área em pé para o sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   3] está tendo o cabelo cortado.
+[Cliente   0] pagou e foi embora satisfeito.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 4 do sofá.
+[Sistema     ] Cliente 8 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Cliente   2] pagou e foi embora satisfeito.
+[Cliente   4] está tendo o cabelo cortado.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Barbeiro  2] Chamando cliente 7 do sofá.
+[Sistema     ] Cliente 9 moveu-se da área em pé para o sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente   7] está tendo o cabelo cortado.
+[Cliente   6] pagou e foi embora satisfeito.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 11 do sofá.
+[Sistema     ] Cliente 14 moveu-se da área em pé para o sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente  11] está tendo o cabelo cortado.
+[Cliente   3] pagou e foi embora satisfeito.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 10 do sofá.
+[Sistema     ] Cliente 12 moveu-se da área em pé para o sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Cliente   7] pagou e foi embora satisfeito.
+[Cliente  10] está tendo o cabelo cortado.
+[Barbeiro  1] terminou o serviço do cliente.
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 8 do sofá.
+[Sistema     ] Cliente 15 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente   4] pagou e foi embora satisfeito.
+[Cliente   8] está tendo o cabelo cortado.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 9 do sofá.
+[Sistema     ] Cliente 13 moveu-se da área em pé para o sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente   9] está tendo o cabelo cortado.
+[Cliente  11] pagou e foi embora satisfeito.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 14 do sofá.
+[Sistema     ] Cliente 16 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[Cliente  14] está tendo o cabelo cortado.
+[Cliente  10] pagou e foi embora satisfeito.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 12 do sofá.
+[Sistema     ] Cliente 18 moveu-se da área em pé para o sofá.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente  12] está tendo o cabelo cortado.
+[Cliente   8] pagou e foi embora satisfeito.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 15 do sofá.
+[Sistema     ] Cliente 17 moveu-se da área em pé para o sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Cliente   9] pagou e foi embora satisfeito.
+[Cliente  15] está tendo o cabelo cortado.
+[Barbeiro  2] terminou o serviço do cliente.
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 13 do sofá.
+[Sistema     ] Cliente 19 moveu-se da área em pé para o sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Cliente  14] pagou e foi embora satisfeito.
+[Cliente  13] está tendo o cabelo cortado.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 16 do sofá.
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Cliente  12] pagou e foi embora satisfeito.
+[Barbeiro  1] está cortando o cabelo do cliente.
+[Cliente  16] está tendo o cabelo cortado.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 18 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Cliente  15] pagou e foi embora satisfeito.
+[Cliente  18] está tendo o cabelo cortado.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  2] Chamando cliente 17 do sofá.
+[Barbeiro  2] está cortando o cabelo do cliente.
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Cliente  13] pagou e foi embora satisfeito.
+[Cliente  17] está tendo o cabelo cortado.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  1] está recebendo o pagamento do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 19 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente.
+[Cliente  19] está tendo o cabelo cortado.
+[Cliente  18] pagou e foi embora satisfeito.
+[Barbeiro  1] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  1] está dormindo...
+[Cliente  16] pagou e foi embora satisfeito.
+[Barbeiro  2] está recebendo o pagamento do cliente.
+[Barbeiro  2] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  2] está dormindo...
+[Barbeiro  0] está recebendo o pagamento do cliente.
+[Cliente  17] pagou e foi embora satisfeito.
+[Barbeiro  0] terminou o serviço do cliente.
+[---------------------------------  0] 
+[Barbeiro  0] está dormindo...
+[Cliente  19] pagou e foi embora satisfeito.
+
+=== Todos os clientes do dia foram atendidos. Fechando a loja... ===
+
+[Barbeiro  1] foi para casa.
+[Barbeiro  2] foi para casa.
+[Barbeiro  0] foi para casa.
+
+=== A Barbearia Fechou! ===
