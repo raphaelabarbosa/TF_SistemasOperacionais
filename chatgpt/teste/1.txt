@@ -1,0 +1,51 @@
+renatog.barbosa@iMac-de-Renato chatgpt % ./barbershop
+=== CONFIGURAÇÃO DA BARBEARIA ===
+Digite o número de clientes: 10
+Digite o número de barbeiros: 2
+Digite a capacidade do sofá: 2
+Digite o número máximo de clientes no salão (inclui sofá e em pé): 5
+Barbeiro 1 dormindo.
+Barbeiro 2 dormindo.
+Cliente 1 senta no sofá. Total no salão: 1
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 2 senta no sofá. Total no salão: 2
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 1 saiu do salão. Total agora: 1
+Cliente 3 senta no sofá. Total no salão: 2
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 2 saiu do salão. Total agora: 1
+Cliente 4 senta no sofá. Total no salão: 2
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 3 saiu do salão. Total agora: 1
+Barbeiro 2 está recebendo pagamento.
+Cliente 5 senta no sofá. Total no salão: 2
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 4 saiu do salão. Total agora: 1
+Barbeiro 1 está recebendo pagamento.
+Cliente 6 senta no sofá. Total no salão: 2
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 5 saiu do salão. Total agora: 1
+Cliente 7 senta no sofá. Total no salão: 2
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 8 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 6 saiu do salão. Total agora: 2
+Cliente 9 senta no sofá. Total no salão: 3
+Barbeiro 2 está recebendo pagamento.
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 7 saiu do salão. Total agora: 2
+Cliente 8 saiu do salão. Total agora: 1
+Cliente 10 senta no sofá. Total no salão: 2
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 9 saiu do salão. Total agora: 1
+Barbeiro 1 está recebendo pagamento.
+Cliente 10 saiu do salão. Total agora: 0
+Barbeiro 1 dormindo.
+Barbeiro 2 dormindo.
+Todos os clientes foram atendidos. Encerrando o programa.

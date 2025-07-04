@@ -1,0 +1,210 @@
+=== CONFIGURAÇÃO DA BARBEARIA ===
+Digite o número de clientes: 50
+Digite o número de barbeiros: 3
+Digite a capacidade do sofá: 4
+Digite o número máximo de clientes no salão (inclui sofá e em pé): 10
+Barbeiro 1 dormindo.
+Barbeiro 2 dormindo.
+Barbeiro 3 dormindo.
+Cliente 1 senta no sofá. Total no salão: 1
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 2 senta no sofá. Total no salão: 2
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 1 saiu do salão. Total agora: 1
+Barbeiro 2 está recebendo pagamento.
+Cliente 3 senta no sofá. Total no salão: 2
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 4 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 2 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Barbeiro 2 está recebendo pagamento.
+Cliente 3 saiu do salão. Total agora: 1
+Cliente 5 senta no sofá. Total no salão: 2
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 6 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 3 está recebendo pagamento.
+Cliente 4 saiu do salão. Total agora: 2
+Barbeiro 2 está recebendo pagamento.
+Cliente 7 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 5 saiu do salão. Total agora: 2
+Barbeiro 1 está recebendo pagamento.
+Cliente 8 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 6 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 7 saiu do salão. Total agora: 1
+Cliente 9 senta no sofá. Total no salão: 2
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 10 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 3 está recebendo pagamento.
+Cliente 8 saiu do salão. Total agora: 2
+Barbeiro 1 está recebendo pagamento.
+Cliente 11 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 9 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 12 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 10 saiu do salão. Total agora: 2
+Cliente 13 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 14 senta no sofá. Total no salão: 4
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 11 saiu do salão. Total agora: 3
+Cliente 12 saiu do salão. Total agora: 2
+Cliente 15 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 3 está recebendo pagamento.
+Cliente 16 senta no sofá. Total no salão: 4
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 13 saiu do salão. Total agora: 3
+Barbeiro 1 está recebendo pagamento.
+Cliente 17 senta no sofá. Total no salão: 4
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 14 saiu do salão. Total agora: 3
+Cliente 15 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 18 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 16 saiu do salão. Total agora: 2
+Barbeiro 2 está recebendo pagamento.
+Cliente 19 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 17 saiu do salão. Total agora: 2
+Barbeiro 1 está recebendo pagamento.
+Cliente 20 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 18 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 21 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 19 saiu do salão. Total agora: 2
+Barbeiro 2 está recebendo pagamento.
+Cliente 22 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 20 saiu do salão. Total agora: 2
+Cliente 23 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 21 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 24 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 22 saiu do salão. Total agora: 2
+Cliente 25 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 23 saiu do salão. Total agora: 2
+Cliente 26 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 24 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 27 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 28 senta no sofá. Total no salão: 4
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 25 saiu do salão. Total agora: 3
+Barbeiro 2 está recebendo pagamento.
+Cliente 29 senta no sofá. Total no salão: 4
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 26 saiu do salão. Total agora: 3
+Barbeiro 3 está recebendo pagamento.
+Cliente 30 senta no sofá. Total no salão: 4
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 27 saiu do salão. Total agora: 3
+Cliente 31 senta no sofá. Total no salão: 4
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 28 saiu do salão. Total agora: 3
+Cliente 32 senta no sofá. Total no salão: 4
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 3 está recebendo pagamento.
+Cliente 29 saiu do salão. Total agora: 3
+Cliente 33 senta no sofá. Total no salão: 4
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 30 saiu do salão. Total agora: 3
+Barbeiro 1 está recebendo pagamento.
+Cliente 31 saiu do salão. Total agora: 2
+Barbeiro 2 está recebendo pagamento.
+Cliente 34 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 32 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 35 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 33 saiu do salão. Total agora: 2
+Barbeiro 2 está recebendo pagamento.
+Cliente 36 senta no sofá. Total no salão: 3
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 34 saiu do salão. Total agora: 2
+Barbeiro 1 está recebendo pagamento.
+Cliente 37 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 35 saiu do salão. Total agora: 2
+Barbeiro 2 está recebendo pagamento.
+Cliente 38 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 39 senta no sofá. Total no salão: 4
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 3 está recebendo pagamento.
+Cliente 36 saiu do salão. Total agora: 3
+Cliente 37 saiu do salão. Total agora: 2
+Barbeiro 1 está recebendo pagamento.
+Cliente 40 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 41 senta no sofá. Total no salão: 4
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 38 saiu do salão. Total agora: 3
+Cliente 39 saiu do salão. Total agora: 2
+Barbeiro 1 está recebendo pagamento.
+Cliente 40 saiu do salão. Total agora: 1
+Cliente 42 senta no sofá. Total no salão: 2
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 43 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Cliente 41 saiu do salão. Total agora: 2
+Cliente 44 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 3 está recebendo pagamento.
+Cliente 42 saiu do salão. Total agora: 2
+Barbeiro 2 está recebendo pagamento.
+Cliente 45 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 3 está recebendo pagamento.
+Cliente 46 senta no sofá. Total no salão: 4
+Barbeiro 1 está cortando cabelo. Pessoas no sofá: 0
+Cliente 43 saiu do salão. Total agora: 3
+Cliente 44 saiu do salão. Total agora: 2
+Cliente 47 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 1 está recebendo pagamento.
+Cliente 48 senta no sofá. Total no salão: 4
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 45 saiu do salão. Total agora: 3
+Cliente 46 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 49 senta no sofá. Total no salão: 3
+Barbeiro 2 está cortando cabelo. Pessoas no sofá: 0
+Cliente 47 saiu do salão. Total agora: 2
+Cliente 50 senta no sofá. Total no salão: 3
+Barbeiro 3 está cortando cabelo. Pessoas no sofá: 0
+Barbeiro 2 está recebendo pagamento.
+Cliente 48 saiu do salão. Total agora: 2
+Barbeiro 3 está recebendo pagamento.
+Cliente 50 saiu do salão. Total agora: 1
+c
+^C
+renatog.barbosa@iMac-de-Renato chatgpt % 
