@@ -1,0 +1,107 @@
+renatog.barbosa@iMac-de-Renato gemini % ./barbearia
+--- Configuração da Barbearia ---
+Digite o número de Barbeiros: 2
+Digite a capacidade do sofá: 1
+Digite o limite total de clientes na loja (sofá + em pé): 3
+Digite o número total de clientes a serem gerados no dia: 10
+Digite o tempo base da simulação em ms (ex: 100 para rápido, 1000 para normal): 1000
+
+======================================================
+=== A Barbearia Abriu! ===
+Configuração: 2 Barbeiros, 1 lugares no sofá, 2 lugares em pé.
+Total de clientes hoje: 10
+======================================================
+
+[Barbeiro  1] chegou para trabalhar.
+[Barbeiro  1] está dormindo...
+[Barbeiro  0] chegou para trabalhar.
+[Barbeiro  0] está dormindo...
+[Cliente   0] chegou na barbearia.
+[Cliente   0] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 0 do sofá.
+[Barbeiro  1] está cortando o cabelo do cliente 0.
+[Cliente   0] está tendo o cabelo cortado.
+[Cliente   1] chegou na barbearia.
+[Cliente   1] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 1 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente 1.
+[Cliente   1] está tendo o cabelo cortado.
+[Cliente   2] chegou na barbearia.
+[Cliente   2] sentou no sofá.
+[Barbeiro  0] está recebendo o pagamento do cliente 1.
+[Barbeiro  0] terminou o serviço do cliente 1.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 2 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente 2.
+[Cliente   1] pagou e foi embora satisfeito.
+[Cliente   2] está tendo o cabelo cortado.
+[Cliente   3] chegou na barbearia.
+[Cliente   3] sentou no sofá.
+[Barbeiro  1] está recebendo o pagamento do cliente 0.
+[Cliente   4] chegou na barbearia.
+[Cliente   4] viu a loja cheia e foi embora.
+[Barbeiro  1] terminou o serviço do cliente 0.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 3 do sofá.
+[Barbeiro  1] está cortando o cabelo do cliente 3.
+[Cliente   0] pagou e foi embora satisfeito.
+[Cliente   3] está tendo o cabelo cortado.
+[Cliente   5] chegou na barbearia.
+[Cliente   5] sentou no sofá.
+[Cliente   6] chegou na barbearia.
+[Cliente   6] viu a loja cheia e foi embora.
+[Barbeiro  0] está recebendo o pagamento do cliente 2.
+[Cliente   7] chegou na barbearia.
+[Cliente   7] viu a loja cheia e foi embora.
+[Barbeiro  0] terminou o serviço do cliente 2.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 5 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente 5.
+[Barbeiro  1] está recebendo o pagamento do cliente 3.
+[Cliente   2] pagou e foi embora satisfeito.
+[Cliente   5] está tendo o cabelo cortado.
+[Barbeiro  1] terminou o serviço do cliente 3.
+[---------------------------------  0] 
+[Barbeiro  1] está dormindo...
+[Cliente   3] pagou e foi embora satisfeito.
+[Cliente   8] chegou na barbearia.
+[Cliente   8] sentou no sofá.
+[---------------------------------  0] 
+[Barbeiro  1] Chamando cliente 8 do sofá.
+[Barbeiro  1] está cortando o cabelo do cliente 8.
+[Cliente   8] está tendo o cabelo cortado.
+[Barbeiro  0] está recebendo o pagamento do cliente 5.
+[Cliente   9] chegou na barbearia.
+[Cliente   9] sentou no sofá.
+
+=== O gerador de clientes terminou. A porta da loja não aceita mais ninguém. ===
+
+[Barbeiro  0] terminou o serviço do cliente 5.
+[---------------------------------  0] 
+[---------------------------------  0] 
+[Barbeiro  0] Chamando cliente 9 do sofá.
+[Barbeiro  0] está cortando o cabelo do cliente 9.
+[Cliente   9] está tendo o cabelo cortado.
+[Cliente   5] pagou e foi embora satisfeito.
+[Barbeiro  1] está recebendo o pagamento do cliente 8.
+[Barbeiro  1] terminou o serviço do cliente 8.
+[---------------------------------  0] 
+[Barbeiro  1] está dormindo...
+[Barbeiro  0] está recebendo o pagamento do cliente 9.
+[Cliente   8] pagou e foi embora satisfeito.
+[Barbeiro  0] terminou o serviço do cliente 9.
+[---------------------------------  0] 
+[Barbeiro  0] está dormindo...
+[Cliente   9] pagou e foi embora satisfeito.
+
+=== Todos os clientes do dia foram embora. Fechando a loja... ===
+
+[Barbeiro  1] foi para casa.
+[Barbeiro  0] foi para casa.
+
+=== A Barbearia Fechou! ===
