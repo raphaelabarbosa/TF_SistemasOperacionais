@@ -1,12 +1,13 @@
-# Makefile
+# Makefile para compilar barbershop_concurrency
 
 CC = gcc
-CFLAGS = -Wall -pthread -O2
+CFLAGS = -Wall -pthread
+TARGET = barbershop
 
-all: barbershop
+all: $(TARGET)
 
-barbershop: barbershop.c
-	$(CC) $(CFLAGS) -o barbershop barbershop.c
+$(TARGET): barbershop.c
+	$(CC) $(CFLAGS) -o $(TARGET) barbershop.c
 
 clean:
-	rm -f barbershop
+	rm -f $(TARGET)
